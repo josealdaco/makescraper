@@ -48,7 +48,7 @@ func main() {
 	})
 
 	// Start scraping on https://hackerspaces.org
-	c.Visit("https://hackerspaces.org/")
+	c.Visit("https://news.ycombinator.com/")
 
 
 }
